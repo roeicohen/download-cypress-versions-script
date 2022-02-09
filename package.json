@@ -1,0 +1,19 @@
+{
+  "name": "download-cypress-versions-script",
+  "version": "1.0.0",
+  "description": "A script that downloads zip files of all cypress binary versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roeicohen/download-cypress-versions-script.git"
+  },
+  "author": "Roei Cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roeicohen/download-cypress-versions-script/issues"
+  },
+  "homepage": "https://github.com/roeicohen/download-cypress-versions-script#readme"
+}
